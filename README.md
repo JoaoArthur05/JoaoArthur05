@@ -38,7 +38,7 @@ _(Banco de dados relacional completo, queries comentadas e insights estratégico
 
 ### 🤝 Vamos nos conectar?
 
-- [LinkedIn]([https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/jo%C3%A3o-arthur-47ab38361/))
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-arthur-47ab38361/)
 - E-mail: joaoandrade250505@gmail.com
 
 
