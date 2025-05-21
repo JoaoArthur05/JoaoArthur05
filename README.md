@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 Tenho fascínio pela área de dados e pelo poder que a compreensão desses dados traz para guiar decisões mais assertivas dentro de uma empresa.  
-Hoje, estou construindo uma base técnica sólida com SQL, Python (Pandas, NumPy) e Power BI — e aplicando isso em projetos reais que você pode conferir por aqui.
+Hoje, estou construindo uma base técnica sólida com SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) e Power BI — e aplicando isso em projetos reais que você pode conferir por aqui.
 
 Mais do que aprender ferramentas, estou desenvolvendo a mentalidade analítica, o pensamento crítico e a capacidade de gerar insights que fazem a diferença nos negócios.  
 
