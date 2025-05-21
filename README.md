@@ -32,7 +32,6 @@ Atualmente, estou em busca da minha primeira oportunidade de estágio na área d
 - [🔗 Projeto de Análise de Vendas com SQL](https://github.com/JoaoArthur05/projeto-sql-analise-vendas) 
 _(Banco de dados relacional completo, queries comentadas e insights estratégicos)_
 
-(Adicione mais conforme for criando outros projetos)
 
 ---
 
