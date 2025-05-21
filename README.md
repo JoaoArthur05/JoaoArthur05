@@ -1,4 +1,49 @@
-## Hi there 👋
+## 👋 Olá! Sou João Arthur
+
+🎓 Estudante de Ciência da Computação  
+📊 Analista de Dados em formação  
+🔍 Explorador do poder dos dados para transformar decisões em resultados
+
+---
+
+### 🚀 Sobre mim
+
+Tenho fascínio pela área de dados e pelo poder que a compreensão desses dados traz para guiar decisões mais assertivas dentro de uma empresa.  
+Hoje, estou construindo uma base técnica sólida com SQL, Python (Pandas, NumPy) e Power BI — e aplicando isso em projetos reais que você pode conferir por aqui.
+
+Mais do que aprender ferramentas, estou desenvolvendo a mentalidade analítica, o pensamento crítico e a capacidade de gerar insights que fazem a diferença nos negócios.  
+
+Atualmente, estou em busca da minha primeira oportunidade de estágio na área de dados, onde eu possa iniciar minha carreira, evoluir, contribuir e somar com o time.
+
+---
+
+### 🛠️ Tecnologias em estudo
+
+- SQL (MySQL)
+- Python para Análise de Dados (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
+- Git/GitHub
+- Excel e Estatística básica
+
+---
+
+### 📌 Projetos em destaque
+
+- [🔗 Projeto de Análise de Vendas com SQL](https://github.com/SEU_USUARIO/projeto-sql-analise-vendas)  
+_(Banco de dados relacional completo, queries comentadas e insights estratégicos)_
+
+(Adicione mais conforme for criando outros projetos)
+
+---
+
+### 🤝 Vamos nos conectar?
+
+- [LinkedIn]([https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/jo%C3%A3o-arthur-47ab38361/))
+- E-mail: joaoandrade250505@gmail.com
+
+
+
+
 
 <!--
 **JoaoArthur05/JoaoArthur05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
