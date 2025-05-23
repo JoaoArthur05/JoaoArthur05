@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação  
 📊 Analista de Dados em formação  
-🔍 Explorador do poder dos dados para transformar decisões em resultados
+🔍 Explorando o poder dos dados para transformar decisões em resultados
 
 ---
 
