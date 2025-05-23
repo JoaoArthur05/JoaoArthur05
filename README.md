@@ -24,7 +24,7 @@ Atualmente, estou em busca da minha primeira oportunidade de estágio na área d
 - Python para Análise de Dados (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
 - Git/GitHub
-- Excel e Estatística básica
+- Excel e Estatística 
 
 ---
 
