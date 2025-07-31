@@ -1,44 +1,50 @@
-## 👋 Olá! Sou João Arthur
+# 👋 Olá! Sou João Arthur
 
 🎓 Estudante de Ciência da Computação  
-📊 Analista de Dados em formação  
-🔍 Explorando o poder dos dados para transformar decisões em resultados
+📊 Fascinado por Análise de Dados, Estratégia e Tomada de Decisão  
+🚀 Em construção ativa da minha carreira na área de Dados
+
 
 ---
 
-### 🚀 Sobre mim
 
-Tenho fascínio pela área de dados e pelo poder que a compreensão desses dados, aliado a uma visão de negócios apurada, traz para guiar decisões mais assertivas dentro de uma empresa.  
+## 💡 Sobre
 
-Hoje, estou construindo uma base técnica sólida com SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) e Power BI — e aplicando isso em projetos reais que você pode conferir por aqui.
+Atuo com propósito claro de desenvolver soluções orientadas por dados que tragam impacto real para a tomada de decisões nos negócios.
 
-Mais do que aprender ferramentas, estou desenvolvendo a mentalidade analítica, o pensamento crítico e a capacidade de gerar insights que fazem a diferença nos negócios.  
+Atualmente estou construindo uma base técnica sólida em **Power BI**, **Excel**, **SQL** e **Python**, com foco em análise e visualização de dados. 
 
-Atualmente, estou em busca da minha primeira oportunidade de estágio na área de dados, onde eu possa iniciar minha carreira, evoluir, contribuir e somar com o time.
+Meus projetos aplicam esses conhecimentos na prática, e são focados em transformar conhecimento técnico em resolução de problemas reais e geração valor concreto, você pode conferir alguns deles aqui no GitHub.
+
+Além de ferramentas, valorizo a **clareza na interpretação dos dados**, a **comunicação objetiva de insights** e a **consistência na entrega de valor**.
+
+
+---
+
+
+## 🧠 Skills Técnicas
+
+- **Power BI**
+- **SQL** (MySQL e PostgreSQL)
+- **Excel aplicado a dados**
+- **Python para análise** (Pandas, NumPy)
+- **Estatística básica aplicada**
+
 
 ---
 
-### 🛠️ Tecnologias em estudo
-
-- SQL (MySQL)
-- Python para Análise de Dados (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI
-- Git/GitHub
-- Excel e Estatística 
-
----
 
 ### 📌 Projetos em destaque
 
 - [🔗 Projeto de Análise de Vendas com SQL](https://github.com/JoaoArthur05/projeto-sql-analise-vendas) 
-_(Banco de dados relacional completo, queries comentadas e insights estratégicos)_
+_(Simulação de um banco relacional + queries comentadas + insights de negócio)_
 
 
 ---
 
 ### 🤝 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-arthur-47ab38361/)
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-arthur-andrade-47ab38361/)
 - E-mail: joao.a.h.andrade@gmail.com
 
 
