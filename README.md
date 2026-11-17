@@ -12,7 +12,7 @@
 
 Atuo com propósito claro de desenvolver soluções orientadas por dados que tragam impacto real para a tomada de decisões nos negócios.
 
-Atualmente estou construindo uma base técnica sólida em **Power BI**, **Excel**, **SQL** e **Python**, com foco em análise e visualização de dados. 
+Atualmente estou construindo uma base técnica sólida em **SQL**, **Power BI** e **Excel**, com foco em análise e visualização de dados. 
 
 Meus projetos aplicam esses conhecimentos na prática, e são focados em transformar conhecimento técnico em resolução de problemas reais e geração valor concreto, você pode conferir alguns deles aqui no GitHub.
 
@@ -27,8 +27,6 @@ Além de ferramentas, valorizo a **clareza na interpretação dos dados**, a **c
 - **Power BI**
 - **SQL** (MySQL e PostgreSQL)
 - **Excel aplicado a dados**
-- **Python para análise** (Pandas, NumPy)
-- **Estatística básica aplicada**
 
 
 ---
@@ -45,7 +43,7 @@ _(Simulação de um banco relacional + queries comentadas + insights de negócio
 ### 🤝 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-arthur-andrade-47ab38361/)
-- E-mail: joao.a.h.andrade@gmail.com
+- E-mail: joaoandrade250505@gmail.com
 
 
 
